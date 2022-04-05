@@ -1,1 +1,1 @@
-# MYOB-coverletter[MYOB_kaidenH_coverLetter.pdf](https://github.com/dratsuC/MYOB-coverletter/files/8414309/MYOB_kaidenH_coverLetter.pdf)
+![Cover Letter](./MYOB_kaidenh_coverletter.pdf){width=65%}
