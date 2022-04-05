@@ -10,3 +10,4 @@ Hey there! Thank you for taking the time to view this little GitHub page. I want
 The application for your protégé developer role did not include a file picker fit for including a cover letter, and so I have put mine right here!
 
 ![MYOB Cover Letter](MYOB_kaidenH_coverLetter.pdf)
+![MYOB Cover Letter](MYOB_kaidenH_coverLetter.png)
